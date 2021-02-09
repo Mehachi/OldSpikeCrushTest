@@ -1,3 +1,50 @@
 <resources>
-    <string name="app_name">Spike Crush</string>
+    <string name="app_name">SpikeCrush</string>
+
+    <!--PageAccueil-->
+    <string name="description_videos">Description</string>
+    <string name="actulaités">Description</string>
+
+    <!--CategorieAgents-->
+    <string name="cat_agents">Catégories d\'agents</string>
+    <string name="cat_duellistes">Duelliste</string>
+    <string name="cat_sentinelles">Sentinelles</string>
+    <string name="cat_initiateurs">Initiateurs</string>
+    <string name="cat_controleurs">Controleurs</string>
+
+    <!--PageDuellistes-->
+    <string name="titre_page_duellistes">Duellistes</string>
+    <string name="Jett">Jett</string>
+    <string name="Raze">Raze</string>
+    <string name="Reyna">Reyna</string>
+    <string name="Phoenix">Phoenix</string>
+    <string name="Yoru">Yoru</string>
+
+    <!--PageInitiateurs-->
+    <string name="titre_page_initiateurs">Initiateurs</string>
+    <string name="Breach">Breach</string>
+    <string name="Sova">Sova</string>
+    <string name="Skye">Skye</string>
+
+    <!--PageSentinelles-->
+    <string name="titre_page_sentinelles">Sentinelles</string>
+    <string name="Cypher">Cypher</string>
+    <string name="Sage">Sage</string>
+    <string name="Killjoy">Killjoy</string>
+
+    <!--PageControleurs-->
+    <string name="titre_page_controleurs">Controleurs</string>
+    <string name="Viper">Viper</string>
+    <string name="Brimstone">Brimstone</string>
+    <string name="Omen">Omen</string>
+
+    <!--Popup-->
+    <string name="settings_langues">langues</string>
+    <string name="setting_langues_subtitles">sélectionner ></string>
+    <string name="setting_aide">aide</string>
+    <string name="settings_support">support</string>
+    <string name="sharing">partager notre application</string>
+
+
+
 </resources>
