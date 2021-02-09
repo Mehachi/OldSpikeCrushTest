@@ -45,6 +45,8 @@
     <string name="settings_support">support</string>
     <string name="sharing">partager notre application</string>
 
-
-
+    <!--Armes-->
+    <string name="cat_armes">Categorie armes</string>
+    <string name = "mitrailleuses" > mitrailleuses</string>
+    
 </resources>
