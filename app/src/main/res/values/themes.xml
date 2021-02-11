@@ -17,7 +17,15 @@
     <style name="DefaultTextStyle">
         <item name="android:textColor">@color/white</item>
         <item name="android:textSize">15sp</item>
-        <item name="android:fontFamily">@font/Exo2-ExtraLight</item>
+    <!--<item name="android:fontFamily">@font/Exo 2</item>-->
+
+</style>
+
+<!-- Créer le composant pour le titre-->
+    <style name="TitleTextStyle">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">30sp</item>
+        <!-- FONT A METTRE -->
 
     </style>
 
