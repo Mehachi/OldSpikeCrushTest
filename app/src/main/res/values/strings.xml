@@ -47,7 +47,9 @@
 
     <!--Armes-->
     <string name="cat_armes">Catégories d\'armes</string>
-    <string name = "mitrailleuses" > mitrailleuses</string>
-    <string name = "PMs" > PMs</string>
+    <string name="cat_armes_de_poing">Armes de poing</string>
+    <string name="cat_mitrailleuses">Mitrailleuses</string>
+    <string name="cat_pms">PMs</string>
+    <string name="cat_fusils_a_pompe">Fusils à pompe</string>
     
 </resources>
